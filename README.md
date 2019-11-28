@@ -11,6 +11,8 @@
     - [1.1 WEB淘宝sign参数逆向破解](#1.1-WEB淘宝sign参数逆向破解)
   - [2 努比亚](#2-努比亚)
     - [2.1 努比亚Cookie生成逆向分析](#2.1-努比亚Cookie生成逆向分析)
+  - [3 百度指数](#3-百度指数)
+    - [3.1 百度指数Data加密逆向破解](#3.1-百度指数Data加密逆向破解)
 
 # 案例分析
 
@@ -39,3 +41,16 @@
 
 - **逆向代码**：[努比亚Cookie参数破解代码](https://github.com/lateautumn4lin/Review_Reverse/blob/master/nubia/m_nubia.py)
 - **实战代码**：[努比亚论坛爬取代码](https://github.com/lateautumn4lin/Review_Reverse/blob/master/test/test_m_nubia.py)
+
+## 3 百度指数
+
+## 3.1 百度指数Data加密逆向破解
+
+- **参考文章**：
+
+  - [微信文章：2019年末逆向复习系列之百度指数Data加密逆向破解](https://mp.weixin.qq.com/s?__biz=MzIzOTQzNDIyOA==&mid=2247483980&idx=1&sn=c17b106f84cb8dd2cb88e774723bec75&chksm=e92b62d7de5cebc11f3ece8d458c76c183871b060549e01865c8e4b97ab6ce7ba47337d43a64&token=1415978371&lang=zh_CN#rd)
+
+  - [个人博客文章：2019年末逆向复习系列之百度指数Data加密逆向破解](https://cloudcrawler.club/bai-du-zhi-shu-data-jia-mi-ni-xiang-po-jie.html)
+
+- **逆向代码**：[百度指数Data加密逆向破解代码](https://github.com/lateautumn4lin/Review_Reverse/blob/master/baidu/baidu_index/m_baidu_index.py)
+- **实战代码**：[百度指数爬取代码](https://github.com/lateautumn4lin/Review_Reverse/blob/master/baidu/baidu_index/m_baidu_index_example.py)
