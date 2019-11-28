@@ -2,7 +2,11 @@
 
 # Review_Reverse 2019年末逆向复习系列（持续更新）
 
-2019 年末总结下今年做过的逆向，复习下思路。
+![](https://github.com/lateautumn4lin/Review_Reverse/blob/master/main.png)
+
+# 前言
+
+马上到2019年末啦！今年接触到到逆向案例还是很多，所以单开个项目给自己复习一下！
 
 # 目录
 
