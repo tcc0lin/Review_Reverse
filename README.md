@@ -64,9 +64,9 @@
 
 - **参考文章**：
 
-  - [微信文章：2019年末逆向复习系列之今日头条WEB端_signature、as、cp参数逆向分析](https://mp.weixin.qq.com/s?__biz=MzIzOTQzNDIyOA==&mid=2247484007&idx=1&sn=42cc87969f7912fdc1a68f5199cb173d&chksm=e92b62fcde5cebea0adb3f7d6bb4da2d848694b9f4f0cd5d69616bf428e7bcfad03a269ef699&token=283044481&lang=zh_CN#rd)
+  - [微信文章：2019年末逆向复习系列之今日头条WEB端_signature、as、cp参数逆向分析](https://mp.weixin.qq.com/s?__biz=MzIzOTQzNDIyOA==&mid=2247484012&idx=1&sn=cea8e45ab9b7b67706b1a9b119659ed8&chksm=e92b62f7de5cebe116b86d5859dabfc23389a3f2b47279f6e73c09be64088c658e34f7c3be70&token=283044481&lang=zh_CN#rd)
 
-  - [个人博客文章：2019年末逆向复习系列之今日头条WEB端_signature、as、cp参数逆向分析](https://cloudcrawler.club/bai-du-zhi-shu-data-jia-mi-ni-xiang-po-jie.html)
+  - [个人博客文章：2019年末逆向复习系列之今日头条WEB端_signature、as、cp参数逆向分析](https://cloudcrawler.club/jin-ri-tou-tiao-web-duan-signature-as-cp-can-shu-ni-xiang-fen-xi.html)
 
 - **逆向代码**：[今日头条WEB端_signature、as、cp参数加密代码](https://github.com/lateautumn4lin/Review_Reverse/blob/master/baidu/baidu_index/m_baidu_index.py)
 - **实战代码**：[今日头条WEB端文章爬取代码](https://github.com/lateautumn4lin/Review_Reverse/blob/master/baidu/baidu_index/m_baidu_index_example.py)
