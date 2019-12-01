@@ -58,8 +58,8 @@
 
   - [个人博客文章：2019年末逆向复习系列之百度指数Data加密逆向破解](https://cloudcrawler.club/bai-du-zhi-shu-data-jia-mi-ni-xiang-po-jie.html)
   
-- **逆向代码**：[今日头条WEB端_signature、as、cp参数加密代码](https://github.com/lateautumn4lin/Review_Reverse/blob/master/baidu/baidu_index/m_baidu_index.py)
-- **实战代码**：[今日头条WEB端文章爬取代码](https://github.com/lateautumn4lin/Review_Reverse/blob/master/baidu/baidu_index/m_baidu_index_example.py)
+- **逆向代码**：[百度指数Data加密代码](https://github.com/lateautumn4lin/Review_Reverse/blob/master/baidu/baidu_index/m_baidu_index.py)
+- **实战代码**：[百度指数爬取代码](https://github.com/lateautumn4lin/Review_Reverse/blob/master/baidu/baidu_index/m_baidu_index_example.py)
 
   
 ## 4 今日头条WEB版
