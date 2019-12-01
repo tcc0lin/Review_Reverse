@@ -52,7 +52,7 @@
 
 - **参考文章**：
 
-  - [微信文章：2019年末逆向复习系列之百度指数Data加密逆向破解](https://mp.weixin.qq.com/s?__biz=MzIzOTQzNDIyOA==&mid=2247483980&idx=1&sn=c17b106f84cb8dd2cb88e774723bec75&chksm=e92b62d7de5cebc11f3ece8d458c76c183871b060549e01865c8e4b97ab6ce7ba47337d43a64&token=1415978371&lang=zh_CN#rd)
+  - [微信文章：2019年末逆向复习系列之百度指数Data加密逆向破解](https://mp.weixin.qq.com/s?__biz=MzIzOTQzNDIyOA==&mid=2247484007&idx=1&sn=42cc87969f7912fdc1a68f5199cb173d&chksm=e92b62fcde5cebea0adb3f7d6bb4da2d848694b9f4f0cd5d69616bf428e7bcfad03a269ef699&token=283044481&lang=zh_CN#rd)
 
   - [个人博客文章：2019年末逆向复习系列之百度指数Data加密逆向破解](https://cloudcrawler.club/bai-du-zhi-shu-data-jia-mi-ni-xiang-po-jie.html)
 
