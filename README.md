@@ -86,7 +86,7 @@
 
   - [微信文章：2019年末逆向复习系列之知乎登录formdata加密逆向破解](https://mp.weixin.qq.com/s?__biz=MzIzOTQzNDIyOA==&mid=2247484012&idx=1&sn=cea8e45ab9b7b67706b1a9b119659ed8&chksm=e92b62f7de5cebe116b86d5859dabfc23389a3f2b47279f6e73c09be64088c658e34f7c3be70&token=283044481&lang=zh_CN#rd)
 
-  - [个人博客文章：2019年末逆向复习系列之知乎登录formdata加密逆向破解](https://cloudcrawler.club/jin-ri-tou-tiao-web-duan-signature-as-cp-can-shu-ni-xiang-fen-xi.html)
+  - [个人博客文章：2019年末逆向复习系列之知乎登录formdata加密逆向破解](https://cloudcrawler.club/zhi-hu-deng-lu-formdata-jia-mi-ni-xiang-po-jie.html)
 
 - **逆向代码**：[知乎登录formdata参数解密代码](https://github.com/lateautumn4lin/Review_Reverse/blob/master/zhihu/m_zhihu.py)
 - **实战代码**：[知乎模拟登录代码](https://github.com/lateautumn4lin/Review_Reverse/blob/master/zhihu/m_zhihu_example.py)
