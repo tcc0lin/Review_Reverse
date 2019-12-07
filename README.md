@@ -21,7 +21,7 @@
     - [4.1 今日头条WEB端_signature、as、cp参数逆向分析](#4.1-今日头条WEB端_signature、as、cp参数逆向分析)
   - [5 知乎WEB版](#5-知乎WEB版)
     - [5.1 知乎登录formdata加密逆向破解](#5.1-知乎登录formdata加密逆向破解)
-  - [6 猫眼字体反爬](#6-猫眼字体反爬)
+  - [6 KNN猫眼字体反爬](#6-KNN猫眼字体反爬)
     - [6.1 从猫眼字体反爬分析谈谈字体反爬的前世今生](#6.1-从猫眼字体反爬分析谈谈字体反爬的前世今生)
 
 # 案例分析
@@ -93,7 +93,7 @@
 - **逆向代码**：[知乎登录formdata参数解密代码](https://github.com/lateautumn4lin/Review_Reverse/blob/master/zhihu/m_zhihu.py)
 - **实战代码**：[知乎模拟登录代码](https://github.com/lateautumn4lin/Review_Reverse/blob/master/zhihu/m_zhihu_example.py)
 
-## 6 猫眼字体反爬
+## 6 KNN猫眼字体反爬
 
 ## 6.1 从猫眼字体反爬分析谈谈字体反爬的前世今生
 
@@ -103,5 +103,5 @@
 
   - [个人博客文章：2019年末逆向复习系列之从猫眼字体反爬分析谈谈字体反爬的前世今生](https://cloudcrawler.club/zhi-hu-deng-lu-formdata-jia-mi-ni-xiang-po-jie.html)
 
-- **逆向代码**：[猫眼字体反爬KNN训练代码](https://github.com/lateautumn4lin/Review_Reverse/blob/master/zhihu/m_zhihu.py)
-- **实战代码**：[猫眼字体反爬实战分析](https://github.com/lateautumn4lin/Review_Reverse/blob/master/zhihu/m_zhihu_example.py)
+- **逆向代码**：[猫眼字体反爬KNN训练代码](https://github.com/lateautumn4lin/Review_Reverse/blob/master/maoyan/knn_test.py)
+- **实战代码**：[猫眼字体反爬实战分析](https://github.com/lateautumn4lin/Review_Reverse/blob/master/maoyan/test.py)
