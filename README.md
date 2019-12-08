@@ -8,6 +8,24 @@
 
 马上到2019年末啦！今年接触到到逆向案例还是很多，所以单开个项目给自己复习一下！
 
+# 使用方式
+
+1. 下载项目
+
+```shell
+git clone git@github.com:lateautumn4lin/Review_Reverse.git
+```
+
+2. 安装依赖
+
+`待整理`
+
+3. 运行你想要的项目，例如猫眼电影
+
+```shell
+python -m maoyao.test
+```
+
 # 目录
 
 - [案例分析](#案例分析)
