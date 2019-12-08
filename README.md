@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/Language-Python3.7-green)
+
 > 郑重声明：本项目的所有代码和相关文章， 仅用于经验技术交流分享，禁止将相关技术应用到不正当途径，因为滥用技术产生的风险与本人无关。
 
 # Review_Reverse 2019年末逆向复习系列（持续更新）
