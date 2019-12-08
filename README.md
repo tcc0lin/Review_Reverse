@@ -99,7 +99,7 @@
 
 - **参考文章**：
 
-  - [微信文章：2019年末逆向复习系列之从猫眼字体反爬分析谈谈字体反爬的前世今生](https://mp.weixin.qq.com/s?__biz=MzIzOTQzNDIyOA==&mid=2247484012&idx=1&sn=cea8e45ab9b7b67706b1a9b119659ed8&chksm=e92b62f7de5cebe116b86d5859dabfc23389a3f2b47279f6e73c09be64088c658e34f7c3be70&token=283044481&lang=zh_CN#rd)
+  - [微信文章：2019年末逆向复习系列之从猫眼字体反爬分析谈谈字体反爬的前世今生](https://mp.weixin.qq.com/s?__biz=MzIzOTQzNDIyOA==&mid=2247484031&idx=1&sn=eff03539c7f593510179202a4d3fe122&chksm=e92b62e4de5cebf21afae6696f1e5f31b361407cc7d88c137412547ffbcfb9446770623c232f&token=699370238&lang=zh_CN#rd)
 
   - [个人博客文章：2019年末逆向复习系列之从猫眼字体反爬分析谈谈字体反爬的前世今生](https://cloudcrawler.club/cong-mao-yan-zi-ti-fan-pa-fen-xi-tan-tan-zi-ti-fan-pa-de-qian-shi-jin-sheng.html)
 
