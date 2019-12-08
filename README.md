@@ -1,14 +1,14 @@
 > 郑重声明：本项目的所有代码和相关文章， 仅用于经验技术交流分享，禁止将相关技术应用到不正当途径，因为滥用技术产生的风险与本人无关。
 
-# Review_Reverse 2019年末逆向复习系列（持续更新）
+# Review_Reverse 2019年末逆向复习系列（持续更新）:exclamation:
 
 ![](https://github.com/lateautumn4lin/Review_Reverse/blob/master/main.png)
 
-# 前言
+# :raised_hands:前言
 
 马上到2019年末啦！今年接触到到逆向案例还是很多，所以单开个项目给自己复习一下！
 
-# 使用方式
+# :ok_man:使用方式
 
 1. 下载项目
 
@@ -26,7 +26,7 @@ git clone git@github.com:lateautumn4lin/Review_Reverse.git
 python -m maoyao.test
 ```
 
-# 目录
+# :dancing_women:目录
 
 - [案例分析](#案例分析)
   - [1 淘宝](#1-淘宝)
