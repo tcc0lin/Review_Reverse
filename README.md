@@ -16,14 +16,20 @@
 git clone git@github.com:lateautumn4lin/Review_Reverse.git
 ```
 
-2. 安装依赖
+2. 创建环境并安装依赖
 
-`待整理`
+```shell
+conda create -n review_reverse python=3.8
+
+. activate review_reverse
+
+pip install -r requirements.txt
+```
 
 3. 运行你想要的项目，例如猫眼电影
 
 ```shell
-python -m maoyao.test
+python -m maoyao.test (以模块化运行)
 ```
 
 # :dancing_women:目录
@@ -134,7 +140,7 @@ python -m maoyao.test
 
   - [微信文章：2019年末逆向复习系列之Boss直聘Cookie加密字段__zp_stoken__逆向分析](https://mp.weixin.qq.com/s?__biz=MzIzOTQzNDIyOA==&mid=2247484031&idx=1&sn=eff03539c7f593510179202a4d3fe122&chksm=e92b62e4de5cebf21afae6696f1e5f31b361407cc7d88c137412547ffbcfb9446770623c232f&token=699370238&lang=zh_CN#rd)
 
-  - [个人博客文章：2019年末逆向复习系列之Boss直聘Cookie加密字段__zp_stoken__逆向分析](https://cloudcrawler.club/cong-mao-yan-zi-ti-fan-pa-fen-xi-tan-tan-zi-ti-fan-pa-de-qian-shi-jin-sheng.html)
+  - [个人博客文章：2019年末逆向复习系列之Boss直聘Cookie加密字段__zp_stoken__逆向分析](https://cloudcrawler.club/boss-zhi-pin-cookie-jia-mi-zi-duan-zp-stoken-ni-xiang-fen-xi.html)
 
-- **逆向代码**：[Boss直聘加密代码](https://github.com/lateautumn4lin/Review_Reverse/blob/master/maoyan/knn_test.py)
-- **实战代码**：[Boss直聘实战分析](https://github.com/lateautumn4lin/Review_Reverse/blob/master/maoyan/test.py)
+- **逆向代码**：[Boss直聘加密代码](https://github.com/lateautumn4lin/Review_Reverse/blob/master/boss_zp/encrypt.js)
+- **实战代码**：[Boss直聘实战分析](https://github.com/lateautumn4lin/Review_Reverse/blob/master/boss_zp/m_boss_zp_example.py)
