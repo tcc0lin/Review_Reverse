@@ -41,6 +41,8 @@ python -m maoyao.test
     - [5.1 知乎登录formdata加密逆向破解](#5.1-知乎登录formdata加密逆向破解)
   - [6 KNN猫眼字体反爬](#6-KNN猫眼字体反爬)
     - [6.1 从猫眼字体反爬分析谈谈字体反爬的前世今生](#6.1-从猫眼字体反爬分析谈谈字体反爬的前世今生)
+  - [7 Boss直聘](#7-Boss直聘)
+    - [7.1 Boss直聘Cookie加密字段__zp_stoken__逆向分析](#7.1-Boss直聘Cookie加密字段__zp_stoken__逆向分析)
 
 # 案例分析
 
@@ -123,3 +125,16 @@ python -m maoyao.test
 
 - **逆向代码**：[猫眼字体反爬KNN训练代码](https://github.com/lateautumn4lin/Review_Reverse/blob/master/maoyan/knn_test.py)
 - **实战代码**：[猫眼字体反爬实战分析](https://github.com/lateautumn4lin/Review_Reverse/blob/master/maoyan/test.py)
+
+## 7 Boss直聘
+
+## 7.1 Boss直聘Cookie加密字段__zp_stoken__逆向分析
+
+- **参考文章**：
+
+  - [微信文章：2019年末逆向复习系列之Boss直聘Cookie加密字段__zp_stoken__逆向分析](https://mp.weixin.qq.com/s?__biz=MzIzOTQzNDIyOA==&mid=2247484031&idx=1&sn=eff03539c7f593510179202a4d3fe122&chksm=e92b62e4de5cebf21afae6696f1e5f31b361407cc7d88c137412547ffbcfb9446770623c232f&token=699370238&lang=zh_CN#rd)
+
+  - [个人博客文章：2019年末逆向复习系列之Boss直聘Cookie加密字段__zp_stoken__逆向分析](https://cloudcrawler.club/cong-mao-yan-zi-ti-fan-pa-fen-xi-tan-tan-zi-ti-fan-pa-de-qian-shi-jin-sheng.html)
+
+- **逆向代码**：[Boss直聘加密代码](https://github.com/lateautumn4lin/Review_Reverse/blob/master/maoyan/knn_test.py)
+- **实战代码**：[Boss直聘实战分析](https://github.com/lateautumn4lin/Review_Reverse/blob/master/maoyan/test.py)
