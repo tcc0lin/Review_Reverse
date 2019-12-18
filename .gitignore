@@ -3,3 +3,5 @@ __pycache__
 *.pyc
 /__pycache__
 .pytest_cache/
+package-lock.json
+node_modules
