@@ -1,6 +1,6 @@
 > 郑重声明：本项目的所有代码和相关文章， 仅用于经验技术交流分享，禁止将相关技术应用到不正当途径，因为滥用技术产生的风险与本人无关。
 
-# Review_Reverse 2019年末逆向复习系列（持续更新）:exclamation:
+# Review_Reverse 2019年末逆向复习系列（持续更新）:exclamation::exclamation::exclamation:
 
 ![](https://github.com/lateautumn4lin/Review_Reverse/blob/master/main.png)
 
@@ -24,6 +24,8 @@ conda create -n review_reverse python=3.8
 . activate review_reverse
 
 pip install -r requirements.txt
+
+npm install express --save
 ```
 
 3. 运行你想要的项目，例如猫眼电影
@@ -49,6 +51,8 @@ python -m maoyao.test (以模块化运行)
     - [6.1 从猫眼字体反爬分析谈谈字体反爬的前世今生](#6.1-从猫眼字体反爬分析谈谈字体反爬的前世今生)
   - [7 Boss直聘](#7-Boss直聘)
     - [7.1 Boss直聘Cookie加密字段__zp_stoken__逆向分析](#7.1-Boss直聘Cookie加密字段__zp_stoken__逆向分析)
+  - [8 pdd](#8-pdd)
+    - [8.1 拼夕夕Web端anti_content参数逆向分析](#8.1-拼夕夕Web端anti_content参数逆向分析)
 
 # 案例分析
 
@@ -144,3 +148,16 @@ python -m maoyao.test (以模块化运行)
 
 - **逆向代码**：[Boss直聘加密代码](https://github.com/lateautumn4lin/Review_Reverse/blob/master/boss_zp/encrypt.js)
 - **实战代码**：[Boss直聘实战分析](https://github.com/lateautumn4lin/Review_Reverse/blob/master/boss_zp/m_boss_zp_example.py)
+
+## 8 pdd
+
+## 8.1 拼夕夕Web端anti_content参数逆向分析
+
+- **参考文章**：
+
+  - [微信文章：2019年末逆向复习系列之拼夕夕Web端anti_content参数逆向分析](https://mp.weixin.qq.com/s?__biz=MzIzOTQzNDIyOA==&mid=2247484031&idx=1&sn=eff03539c7f593510179202a4d3fe122&chksm=e92b62e4de5cebf21afae6696f1e5f31b361407cc7d88c137412547ffbcfb9446770623c232f&token=699370238&lang=zh_CN#rd)
+
+  - [个人博客文章：2019年末逆向复习系列之拼夕夕Web端anti_content参数逆向分析](https://cloudcrawler.club/pin-xi-xi-web-duan-anti-content-can-shu-ni-xiang-fen-xi.html)
+
+- **逆向代码**：[pdd加密服务代码](https://github.com/lateautumn4lin/Review_Reverse/blob/master/pdd/encrypt_server.js)
+- **实战代码**：[pdd实战案例代码](https://github.com/lateautumn4lin/Review_Reverse/blob/master/pdd/m_pdd_example.py)
