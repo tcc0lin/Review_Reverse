@@ -3,11 +3,11 @@
 # :1st_place_medal:Review_Reverse 2019年末逆向复习系列（持续更新）:exclamation:
 ![](https://github.com/lateautumn4lin/Review_Reverse/blob/master/main.png)
 
-# :raised_hands:前言
+# :family_man_man_girl_boy:前言
 
 马上到2019年末啦！今年接触到的逆向案例还是很多，所以单开个项目给自己复习一下！
 
-# :ok_man:使用方式
+# :handshake:使用方式
 
 1. 下载项目
 
@@ -33,9 +33,9 @@ npm install express --save
 python -m maoyao.test (以模块化运行)
 ```
 
-# :dancing_women:目录
+# :calendar:目录
 
-- [案例分析](#案例分析)
+- [案例分析:page_with_curl:](#案例分析)
   - [1 淘宝:heavy_check_mark:](#1-淘宝)
     - [1.1 WEB淘宝sign参数逆向破解](#1.1-WEB淘宝sign参数逆向破解)
   - [2 努比亚:heavy_check_mark:](#2-努比亚)
