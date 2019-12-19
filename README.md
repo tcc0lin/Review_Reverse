@@ -5,7 +5,7 @@
 
 # :raised_hands:前言
 
-马上到2019年末啦！今年接触到到逆向案例还是很多，所以单开个项目给自己复习一下！
+马上到2019年末啦！今年接触到的逆向案例还是很多，所以单开个项目给自己复习一下！
 
 # :ok_man:使用方式
 
@@ -160,3 +160,8 @@ python -m maoyao.test (以模块化运行)
 
 - **逆向代码**：[pdd加密服务代码](https://github.com/lateautumn4lin/Review_Reverse/blob/master/pdd/encrypt_server.js)
 - **实战代码**：[pdd实战案例代码](https://github.com/lateautumn4lin/Review_Reverse/blob/master/pdd/m_pdd_example.py)
+
+### 项目以及个人立场声明
+
+郑重声明：本项目的所有代码和相关文章， 仅用于经验技术交流分享，禁止将相关技术应用到不正当途径，因为滥用技术产生的风险与本人无关。
+
