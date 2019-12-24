@@ -154,7 +154,7 @@ python -m maoyao.test (以模块化运行)
 
 - **参考文章**：
 
-  - [微信文章：2019年末逆向复习系列之拼夕夕Web端anti_content参数逆向分析](https://mp.weixin.qq.com/s?__biz=MzIzOTQzNDIyOA==&mid=2247484031&idx=1&sn=eff03539c7f593510179202a4d3fe122&chksm=e92b62e4de5cebf21afae6696f1e5f31b361407cc7d88c137412547ffbcfb9446770623c232f&token=699370238&lang=zh_CN#rd)
+  - [微信文章：2019年末逆向复习系列之拼夕夕Web端anti_content参数逆向分析](https://mp.weixin.qq.com/s?__biz=MzIzOTQzNDIyOA==&mid=2247484087&idx=1&sn=b0bda340fb452c596e459d6d92468be7&chksm=e92b622cde5ceb3a583be31e3e36febe2ffe476dc620ae9197952a3f365bafbac55e2fbe595f&token=1130534321&lang=zh_CN#rd)
 
   - [个人博客文章：2019年末逆向复习系列之拼夕夕Web端anti_content参数逆向分析](https://cloudcrawler.club/pin-xi-xi-web-duan-anti-content-can-shu-ni-xiang-fen-xi.html)
 
