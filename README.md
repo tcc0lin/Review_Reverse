@@ -141,7 +141,7 @@ python -m maoyao.test (以模块化运行)
 
 - **参考文章**：
 
-  - [微信文章：2019年末逆向复习系列之Boss直聘Cookie加密字段__zp_stoken__逆向分析](https://mp.weixin.qq.com/s?__biz=MzIzOTQzNDIyOA==&mid=2247484031&idx=1&sn=eff03539c7f593510179202a4d3fe122&chksm=e92b62e4de5cebf21afae6696f1e5f31b361407cc7d88c137412547ffbcfb9446770623c232f&token=699370238&lang=zh_CN#rd)
+  - [微信文章：2019年末逆向复习系列之Boss直聘Cookie加密字段__zp_stoken__逆向分析](https://mp.weixin.qq.com/s?__biz=MzIzOTQzNDIyOA==&mid=2247484061&idx=1&sn=d9fb0d5c217d51db3e76ab8a46ea1f46&chksm=e92b6206de5ceb102362759bffae17d7823d5d87746f53fb96e5cd6a3459d672bafb79df73ca&scene=126&sessionid=1577691254&key=0db4f7c719eb508e7488b5d313f13c5661fb4621736c62afcdd2e443e37ebc2a96373d1ed9b9eacf46fdc25bb00d2e0eeb9f452c776435d84f2d6a86020dd50abeaa215e5c6bcdd8ece2751217f8f2e5&ascene=1&uin=MjE5NTExNzYxMA%3D%3D&devicetype=Windows+10&version=62080052&lang=zh_CN&exportkey=ATbLLqYnvb3Igv4c0JqELS8%3D&pass_ticket=NKkp5nBcAA8VRPQe8d74fGS4YPgjrunDEIffVOtFuWW%2B%2B6ANCBmuvXHwEZm9Ixm6)
 
   - [个人博客文章：2019年末逆向复习系列之Boss直聘Cookie加密字段__zp_stoken__逆向分析](https://cloudcrawler.club/boss-zhi-pin-cookie-jia-mi-zi-duan-zp-stoken-ni-xiang-fen-xi.html)
 
