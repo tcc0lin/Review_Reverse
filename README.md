@@ -1,13 +1,26 @@
-> 郑重声明：本项目的所有代码和相关文章， 仅用于经验技术交流分享，禁止将相关技术应用到不正当途径，因为滥用技术产生的风险与本人无关。
+<h1 align="center">Welcome to Review_Reverse 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
+  <a href="https://github.com/lateautumn4lin/Review_Reverse" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
+  <a href="none" target="_blank">
+    <img alt="License: none" src="https://img.shields.io/badge/License-none-yellow.svg" />
+  </a>
+  <a href="https://twitter.com/none" target="_blank">
+    <img alt="Twitter: none" src="https://img.shields.io/twitter/follow/none.svg?style=social" />
+  </a>
+</p>
 
-# :1st_place_medal:Review_Reverse 2019年末逆向复习系列（持续更新）:exclamation:
 ![](https://github.com/lateautumn4lin/Review_Reverse/blob/master/main.png)
 
-# :family_man_man_girl_boy:前言
+> 关于逆向析相关实实战案例的案例
 
-马上到2019年末啦！今年接触到的逆向案例还是很多，所以单开个项目给自己复习一下！
+### 🏠 [Homepage](https://github.com/lateautumn4lin/Review_Reverse)
 
-# :handshake:使用方式
+### ✨ [Demo](https://github.com/lateautumn4lin/Review_Reverse)
+
+## Install 🤝
 
 1. 下载项目
 
@@ -33,31 +46,43 @@ npm install express --save
 python -m maoyao.test (以模块化运行)
 ```
 
-# :calendar:目录
+## Usage
 
-- [:page_with_curl:案例分析](#案例分析)
-  - [:one: 淘宝:heavy_check_mark:](#1-淘宝)
-    - [1.1 WEB淘宝sign参数逆向破解](#1.1-WEB淘宝sign参数逆向破解)
-  - [:two: 努比亚:heavy_check_mark:](#2-努比亚)
-    - [2.1 努比亚Cookie生成逆向分析](#2.1-努比亚Cookie生成逆向分析)
-  - [:three: 百度指数:heavy_check_mark:](#3-百度指数)
-    - [3.1 百度指数Data加密逆向破解](#3.1-百度指数Data加密逆向破解)
-  - [:four: 今日头条WEB版:heavy_check_mark:](#4-今日头条WEB版)
-    - [4.1 今日头条WEB端_signature、as、cp参数逆向分析](#4.1-今日头条WEB端_signature、as、cp参数逆向分析)
-  - [:five: 知乎WEB版:heavy_check_mark:](#5-知乎WEB版)
-    - [5.1 知乎登录formdata加密逆向破解](#5.1-知乎登录formdata加密逆向破解)
-  - [:six: KNN猫眼字体反爬:heavy_check_mark:](#6-KNN猫眼字体反爬)
-    - [6.1 从猫眼字体反爬分析谈谈字体反爬的前世今生](#6.1-从猫眼字体反爬分析谈谈字体反爬的前世今生)
-  - [:seven: Boss直聘:heavy_check_mark:](#7-Boss直聘)
-    - [7.1 Boss直聘Cookie加密字段__zp_stoken__逆向分析](#7.1-Boss直聘Cookie加密字段__zp_stoken__逆向分析)
-  - [:eight: pdd:heavy_check_mark:](#8-pdd)
-    - [8.1 拼夕夕Web端anti_content参数逆向分析](#8.1-拼夕夕Web端anti_content参数逆向分析)
+```sh
+查看公众号相关文章
+```
 
-# 案例分析
+## Run tests
 
-## 1 淘宝
+```sh
+python -m maoyao.test (以模块化运行)
+```
 
-## 1.1 WEB淘宝sign参数逆向破解
+## 📃目录
+
+- [案例分析](##案例分析)
+  - [淘宝](###1-淘宝)
+    - [1.1 WEB淘宝sign参数逆向破解](###1.1-WEB淘宝sign参数逆向破解)
+  - [努比亚](###2-努比亚)
+    - [2.1 努比亚Cookie生成逆向分析](###2.1-努比亚Cookie生成逆向分析)
+  - [百度指数](###3-百度指数)
+    - [3.1 百度指数Data加密逆向破解](###3.1-百度指数Data加密逆向破解)
+  - [今日头条WEB版](###4-今日头条WEB版)
+    - [4.1 今日头条WEB端_signature、as、cp参数逆向分析](###4.1-今日头条WEB端_signature、as、cp参数逆向分析)
+  - [ 知乎WEB版](###5-知乎WEB版)
+    - [5.1 知乎登录formdata加密逆向破解](###5.1-知乎登录formdata加密逆向破解)
+  - [KNN猫眼字体反爬](###6-KNN猫眼字体反爬)
+    - [6.1 从猫眼字体反爬分析谈谈字体反爬的前世今生](###6.1-从猫眼字体反爬分析谈谈字体反爬的前世今生)
+  - [Boss直聘](###7-Boss直聘)
+    - [7.1 Boss直聘Cookie加密字段__zp_stoken__逆向分析](###7.1-Boss直聘Cookie加密字段__zp_stoken__逆向分析)
+  - [ pdd](###8-pdd)
+    - [8.1 拼夕夕Web端anti_content参数逆向分析](###8.1-拼夕夕Web端anti_content参数逆向分析)
+
+## 案例分析
+
+### 1 淘宝
+
+### 1.1 WEB淘宝sign参数逆向破解
 
 - **参考文章**：
 
@@ -68,9 +93,9 @@ python -m maoyao.test (以模块化运行)
 - **实战代码**：[WEB 淘宝爬取代码](https://github.com/lateautumn4lin/Review_Reverse/blob/master/tb/m_tb_example.py)
 
 
-## 2 努比亚
+### 2 努比亚
 
-## 2.1 努比亚Cookie生成逆向分析
+### 2.1 努比亚Cookie生成逆向分析
 
 - **参考文章**：
 
@@ -81,9 +106,9 @@ python -m maoyao.test (以模块化运行)
 - **逆向代码**：[努比亚Cookie参数破解代码](https://github.com/lateautumn4lin/Review_Reverse/blob/master/nubia/m_nubia.py)
 - **实战代码**：[努比亚论坛爬取代码](https://github.com/lateautumn4lin/Review_Reverse/blob/master/test/test_m_nubia.py)
 
-## 3 百度指数
+### 3 百度指数
 
-## 3.1 百度指数Data加密逆向破解
+### 3.1 百度指数Data加密逆向破解
 
 - **参考文章**：
 
@@ -95,9 +120,9 @@ python -m maoyao.test (以模块化运行)
 - **实战代码**：[百度指数爬取代码](https://github.com/lateautumn4lin/Review_Reverse/blob/master/baidu/baidu_index/m_baidu_index_example.py)
 
   
-## 4 今日头条WEB版
+### 4 今日头条WEB版
 
-## 4.1 今日头条WEB端_signature、as、cp参数逆向分析
+### 4.1 今日头条WEB端_signature、as、cp参数逆向分析
 
 - **参考文章**：
 
@@ -109,9 +134,9 @@ python -m maoyao.test (以模块化运行)
 - **实战代码**：[今日头条WEB端文章爬取代码](https://github.com/lateautumn4lin/Review_Reverse/blob/master/toutiao/m_toutiao_example.py)
 
 
-## 5 知乎WEB版
+### 5 知乎WEB版
 
-## 5.1 知乎登录formdata加密逆向破解
+### 5.1 知乎登录formdata加密逆向破解
 
 - **参考文章**：
 
@@ -122,9 +147,9 @@ python -m maoyao.test (以模块化运行)
 - **逆向代码**：[知乎登录formdata参数解密代码](https://github.com/lateautumn4lin/Review_Reverse/blob/master/zhihu/m_zhihu.py)
 - **实战代码**：[知乎模拟登录代码](https://github.com/lateautumn4lin/Review_Reverse/blob/master/zhihu/m_zhihu_example.py)
 
-## 6 KNN猫眼字体反爬
+### 6 KNN猫眼字体反爬
 
-## 6.1 从猫眼字体反爬分析谈谈字体反爬的前世今生
+### 6.1 从猫眼字体反爬分析谈谈字体反爬的前世今生
 
 - **参考文章**：
 
@@ -135,9 +160,9 @@ python -m maoyao.test (以模块化运行)
 - **逆向代码**：[猫眼字体反爬KNN训练代码](https://github.com/lateautumn4lin/Review_Reverse/blob/master/maoyan/knn_test.py)
 - **实战代码**：[猫眼字体反爬实战分析](https://github.com/lateautumn4lin/Review_Reverse/blob/master/maoyan/test.py)
 
-## 7 Boss直聘
+### 7 Boss直聘
 
-## 7.1 Boss直聘Cookie加密字段__zp_stoken__逆向分析
+### 7.1 Boss直聘Cookie加密字段__zp_stoken__逆向分析
 
 - **参考文章**：
 
@@ -148,9 +173,9 @@ python -m maoyao.test (以模块化运行)
 - **逆向代码**：[Boss直聘加密代码](https://github.com/lateautumn4lin/Review_Reverse/blob/master/boss_zp/encrypt.js)
 - **实战代码**：[Boss直聘实战分析](https://github.com/lateautumn4lin/Review_Reverse/blob/master/boss_zp/m_boss_zp_example.py)
 
-## 8 pdd
+### 8 pdd
 
-## 8.1 拼夕夕Web端anti_content参数逆向分析
+### 8.1 拼夕夕Web端anti_content参数逆向分析
 
 - **参考文章**：
 
@@ -161,7 +186,33 @@ python -m maoyao.test (以模块化运行)
 - **逆向代码**：[pdd加密服务代码](https://github.com/lateautumn4lin/Review_Reverse/blob/master/pdd/encrypt_server.js)
 - **实战代码**：[pdd实战案例代码](https://github.com/lateautumn4lin/Review_Reverse/blob/master/pdd/m_pdd_example.py)
 
-### 项目以及个人立场声明
+## Author
+
+👤 **lateautumn4lin**
+
+* Wechat: linhanqiu1123
+* 公众号：云爬虫技术研究笔记
+* Website: https://cloudcrawler.club/
+* Twitter: [@none](https://twitter.com/none)
+* Github: [@lateautumn4lin](https://github.com/lateautumn4lin)
+* LinkedIn: [@none](https://linkedin.com/in/none)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+<a href="https://www.patreon.com/none">
+  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+</a>
+
+## 📝 License
+
+Copyright © 2020 [lateautumn4lin](https://github.com/lateautumn4lin).<br />
+This project is [none](none) licensed.
+
+## 项目以及个人立场声明
 
 再次郑重声明：本项目的所有代码和相关文章， 仅用于经验技术交流分享，禁止将相关技术应用到不正当途径，因为滥用技术产生的风险与本人无关。
 
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
