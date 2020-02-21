@@ -15,6 +15,8 @@
 ![](https://github.com/lateautumn4lin/Review_Reverse/blob/master/main.png)
 
 > 关于逆向析相关实实战案例的案例
+>>1. 2019年末逆向复习系列
+
 
 ### 🏠 [Homepage](https://github.com/lateautumn4lin/Review_Reverse)
 
@@ -60,7 +62,7 @@ python -m maoyao.test (以模块化运行)
 
 ## 📃目录
 
-- [案例分析](##案例分析)
+- [2019年末逆向复习系列](##案例分析)
   - [淘宝](###1-淘宝)
     - [1.1 WEB淘宝sign参数逆向破解](###1.1-WEB淘宝sign参数逆向破解)
   - [努比亚](###2-努比亚)
@@ -78,7 +80,7 @@ python -m maoyao.test (以模块化运行)
   - [ pdd](###8-pdd)
     - [8.1 拼夕夕Web端anti_content参数逆向分析](###8.1-拼夕夕Web端anti_content参数逆向分析)
 
-## 案例分析
+## 2019年末逆向复习系列
 
 ### 1 淘宝
 
