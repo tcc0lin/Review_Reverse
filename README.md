@@ -14,7 +14,7 @@
 
 ![](https://github.com/lateautumn4lin/Review_Reverse/blob/master/main.png)
 
-> 关于逆向析相关实实战案例的案例
+> 关于逆向析相关实实战案例的案例，目前已推出如下系列
 >>1. 2019年末逆向复习系列
 
 
