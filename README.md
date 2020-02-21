@@ -12,7 +12,12 @@
   </a>
 </p>
 
-![](https://github.com/lateautumn4lin/Review_Reverse/blob/master/main.png)
+<p align="center">
+	<img src="https://github.com/lateautumn4lin/Review_Reverse/blob/master/main.png" alt="Sample"  width="500" height="200">
+	<p align="center">
+		<em>图片示例2</em>
+	</p>
+</p>
 
 > 关于逆向析相关实实战案例的案例，目前已推出如下系列
 >>1. 2019年末逆向复习系列
