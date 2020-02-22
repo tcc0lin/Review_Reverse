@@ -13,14 +13,21 @@
 </p>
 
 <p align="center">
-	<img src="https://github.com/lateautumn4lin/Review_Reverse/blob/master/main.png" alt="Sample"  width="500" height="200">
+	<img src="https://github.com/lateautumn4lin/Review_Reverse/blob/master/sources/imgs/Series_one.png" alt="Sample"  width="500" height="200">
 	<p align="center">
-		<em>图片示例2</em>
+		<em>2019年末逆向复习系列</em>
+	</p>
+</p>
+<p align="center">
+	<img src="https://github.com/lateautumn4lin/Review_Reverse/blob/master/sources/imgs/Series_two.png" alt="Sample"  width="500" height="200">
+	<p align="center">
+		<em>轻JS逆向分析“攒经验”项目系列</em>
 	</p>
 </p>
 
 > 关于逆向析相关实实战案例的案例，目前已推出如下系列
 >>1. 2019年末逆向复习系列
+>>2. 轻JS逆向分析“攒经验”项目系列
 
 
 ### 🏠 [Homepage](https://github.com/lateautumn4lin/Review_Reverse)
@@ -62,7 +69,7 @@ python -m maoyao.test (以模块化运行)
 ## Run tests
 
 ```sh
-python -m maoyao.test (以模块化运行)
+cd 2019_Reverse_Review && python -m maoyao.test (以模块化运行)
 ```
 
 ## 📃目录
@@ -84,6 +91,10 @@ python -m maoyao.test (以模块化运行)
     - [7.1 Boss直聘Cookie加密字段__zp_stoken__逆向分析](###7.1-Boss直聘Cookie加密字段__zp_stoken__逆向分析)
   - [ pdd](###8-pdd)
     - [8.1 拼夕夕Web端anti_content参数逆向分析](###8.1-拼夕夕Web端anti_content参数逆向分析)
+
+- [轻JS逆向分析“攒经验”项目系列](##案例分析)
+  - [mxc](###1-mxc)
+    - [1.1 某交易所Header加密参数破解](###1.1-某交易所Header加密参数破解)
 
 ## 2019年末逆向复习系列
 
