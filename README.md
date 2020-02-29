@@ -57,7 +57,7 @@ npm install express --save
 3. 运行你想要的项目，例如猫眼电影
 
 ```shell
-python -m maoyao.test (以模块化运行)
+python -m maoyan.test (以模块化运行)
 ```
 
 ## Usage
@@ -69,7 +69,7 @@ python -m maoyao.test (以模块化运行)
 ## Run tests
 
 ```sh
-cd 2019_Reverse_Review && python -m maoyao.test (以模块化运行)
+cd 2019_Reverse_Review && python -m maoyan.test (以模块化运行)
 ```
 
 ## 📃目录
